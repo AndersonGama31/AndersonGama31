@@ -1,4 +1,4 @@
-# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hello World, I'm Anderson <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> Hello World, I'm Anderson 
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-andersongama31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/andersongama31/) [![Gmail Badge](https://img.shields.io/badge/-andersongama31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersongama31@gmail.com)](mailto:andersongama31@gmail.com)
 
