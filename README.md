@@ -6,7 +6,7 @@
 - ⚛ I'm a **Front-end Developer**, building projects with **React**
 - 👨‍💻 I started my studies in coding through the **GoStack** (Full Stack Web Development course by **RocketSeat**)
 - 📫 How to reach me: https://www.linkedin.com/in/andersongama31 | andersongama31@gmail.com
-- 😍 I value: healthy life, study routine, meditate, technology, pair programming, books, podcast, cook, travel, bike, series
+- 😍 I value: Family, study routine, technology, pair programming, podcast, cook, travel, bike, series
 - 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
 - ☕️ Have a coffee and get an overview of my latest projects here: 
 
