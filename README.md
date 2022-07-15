@@ -4,8 +4,9 @@
 
 
 - 🚀 I'm passionate about innovation and I'm proactive and guided for finding creative solutions
-- ⚛ I'm a **FullStack Developer**, building projects with  the languages listed below...
-- 👨‍💻 I started my studies in coding through the **GoStack** (Full Stack Web Development course by **RocketSeat**)
+- 🚀 I'm a **FullStack Developer**, building projects with  the languages listed below...
+- 💻 I started my studies in coding through the **GoStack** (Full Stack Web Development course by **RocketSeat**)
+- 🎯 My biggest goal is to work with development in another country
 - 📫 How to reach me: https://www.linkedin.com/in/andersongama31 | andersongama31@gmail.com
 - 😍 I value: Family, study routine, technology, pair programming, podcast, cook, travel, series and sports
 - 🧠 Mindset: Owner spirit, being collaborative, self-directed and work towards the team's goals
